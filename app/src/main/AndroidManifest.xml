@@ -11,6 +11,9 @@
         android:theme="@style/Theme.Github_test_and">
         <activity
             android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SubActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
