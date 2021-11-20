@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3541666666666667" />
         <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3541666666666667" />
-        <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/layout/activity_main.xml" value="0.2509057971014493" />
-        <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/layout/activity_sub.xml" value="0.33" />
+        <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/layout/activity_mainpage.xml" value="0.22" />
+        <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/layout/activity_sub.xml" value="0.22" />
         <entry key="..\:/Users/Junho/AndroidStudioProjects/github_test_and/app/src/main/res/layout/activity_sub2.xml" value="0.2477355072463768" />
       </map>
     </option>
